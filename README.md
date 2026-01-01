@@ -35,3 +35,8 @@ Install dependencies:
 ```bash
 pip install requests beautifulsoup4
 ```
+
+---
+
+## Demo
+![Demo](assets/demo.png)
