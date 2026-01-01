@@ -5,7 +5,13 @@ A Python command-line tool that automatically downloads XKCD comics by scraping 
 This project aims to produce a automated web scraper coupled with production-quality features such as robust URL handling, command-line arguments, and safe network behavior.
 
 ---
+## Quick Start
+```bash
+pip install -r requirements.txt
+python downloadXkcd.py --limit 5
+```
 
+---
 ## Features
 
 - Downloads XKCD comic images automatically
@@ -28,3 +34,4 @@ Install dependencies:
 
 ```bash
 pip install requests beautifulsoup4
+```
