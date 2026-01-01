@@ -2,7 +2,7 @@
 
 A Python command-line tool that automatically downloads XKCD comics by scraping the official website and following the “Previous” links until the first comic.
 
-This project is based on the *Automate the Boring Stuff with Python* web-scraping chapter, but extended with production-quality features such as robust URL handling, command-line arguments, and safe network behavior.
+This project aims to produce a automated web scraper coupled with production-quality features such as robust URL handling, command-line arguments, and safe network behavior.
 
 ---
 
